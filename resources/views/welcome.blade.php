@@ -58,7 +58,7 @@
         <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    Todo List App!
+                    Todo List App
                 </div>
             </div>
         </div>
